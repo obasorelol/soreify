@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-svg": "^2.15.4",
-    "parcel": "^2.11.0"
+    "@parcel/transformer-svg": "^2.10.0",
+    "parcel": "^2.15.4"
   },
   "engines": {
     "node": "20.x"
