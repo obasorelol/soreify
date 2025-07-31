@@ -1,8 +1,7 @@
 {
   "name": "moshify-website",
   "version": "1.0.0",
-  "description": "",
-  "main": "js/main.js",
+  
 
   "scripts": {
     "build": "parcel build index.html",
